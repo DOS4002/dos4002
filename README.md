@@ -16,6 +16,7 @@ Atualmente, eu estudo Desenvolvimento de Sistemas.
   <img src="https://github-readme-stats.vercel.app/api?username=dos4002&show_icons=true" />
 </picture>
 <img heigh="200" width="349" src="https://media.tenor.com/gJGXNVLiLLkAAAAC/gear-5-gear-5-luffy.gif"/>
+<img height="179" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dos4002&layout=compact&langs_count=7&theme=tokyonight"/>
 </div><hr>
 
 ## Tecnologias que eu uso nos meus dias
