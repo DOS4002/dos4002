@@ -17,8 +17,7 @@ Atualmente, eu estudo Desenvolvimento de Sistemas.
 <hr>
 
 ## Tecnologias que eu uso nos meus dias
-
-<div style="display: inline-block"><br>
+<div style="display: inline-block">
   <img align="center" alt="DOS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="DOS-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="DOS-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -29,3 +28,13 @@ Atualmente, eu estudo Desenvolvimento de Sistemas.
   <img align="center" alt="DOS-sqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="DOS-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
+
+## 
+
+## Redes sociais
+<div> 
+  <a href = "mailto:diegoolegario4002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diego-olegario-6462b5235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<div>
