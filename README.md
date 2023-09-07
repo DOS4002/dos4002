@@ -3,27 +3,25 @@
 
 Atualmente, eu estudo Desenvolvimento de Sistemas.
 
+<hr>
 
-<div style="display: inline_block"><hr>
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dos4002&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dos4002&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=dos4002&show_icons=true" />
-</picture>
-<img heigh="200" width="349" src="https://media.tenor.com/gJGXNVLiLLkAAAAC/gear-5-gear-5-luffy.gif"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dos4002&langs_count=8&layout=compact&theme=tokyonight&hide_border=true">
+<p style="display: inline-block">
+  <img src="https://github-readme-stats.vercel.app/api?username=dos4002&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img height="200" width="349" src="https://media.tenor.com/gJGXNVLiLLkAAAAC/gear-5-gear-5-luffy.gif" alt="Luffy GIF">
+</p>
 
-</div><hr>
+<p style="display: inline-block">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dos4002&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&border_radius=30" alt="Top Languages">
+  <img height="200" width="349" src="https://streak-stats.demolab.com?user=dos4002&theme=tokyonight&hide_border=true&border_radius=40" alt="GitHub Streak">
+</p>
+
+</div>
+
+<hr>
 
 ## Tecnologias que eu uso nos meus dias
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   <img align="center" alt="DOS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="DOS-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="DOS-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -34,6 +32,3 @@ Atualmente, eu estudo Desenvolvimento de Sistemas.
   <img align="center" alt="DOS-sqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="DOS-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
-
-
-
