@@ -1,6 +1,7 @@
-### OOPA! Eu sou o DOS 🗿
-
+### OOPA! Eu sou o DOS 
 Atualmente, eu estudo Desenvolvimento de Sistemas.
+
+<img style="margin-left: 50px" height="70" width="70" src="https://cdn.discordapp.com/attachments/1117918253373722808/1149187431153815552/Design_sem_nome_1.gif">
 
 <div style="display: inline_block"><hr>
   <picture>
