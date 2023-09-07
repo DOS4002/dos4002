@@ -10,8 +10,8 @@ Atualmente, eu estudo Desenvolvimento de Sistemas.
   <img height="200" width="349" src="https://media.tenor.com/gJGXNVLiLLkAAAAC/gear-5-gear-5-luffy.gif" alt="Luffy GIF"> <br> <br>
   <img heigh="200" width="359"src="https://github-readme-stats.vercel.app/api/top-langs/?username=dos4002&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&border_radius=30" alt="Top Languages">
    <img height="135" width="349" src="https://streak-stats.demolab.com?user=dos4002&theme=tokyonight&hide_border=true&border_radius=30" alt="GitHub Streak">
+   <img  height="124" width="124" src="https://media.tenor.com/L-I_GamUq3sAAAAC/gear-5-luffy-gear-5.gif">
 </p>
-
 </div>
 
 <hr>
