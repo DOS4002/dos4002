@@ -30,11 +30,8 @@ Atualmente, eu estudo Desenvolvimento de Sistemas.
   <img align="center" alt="DOS-Elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">
   <img align="center" alt="DOS-sqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="DOS-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-
-
-  
-
-
 </div>
+
+![snake gif](https://github.com/DOS4002/DOS4002/blob/output/github-contribution-grid-snake.svg)
 
 
