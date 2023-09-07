@@ -7,12 +7,9 @@ Atualmente, eu estudo Desenvolvimento de Sistemas.
 
 <p style="display: inline-block">
   <img src="https://github-readme-stats.vercel.app/api?username=dos4002&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img height="200" width="349" src="https://media.tenor.com/gJGXNVLiLLkAAAAC/gear-5-gear-5-luffy.gif" alt="Luffy GIF">
-</p>
-
-<p style="display: inline-block">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dos4002&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&border_radius=30" alt="Top Languages">
-  <img height="200" width="349" src="https://streak-stats.demolab.com?user=dos4002&theme=tokyonight&hide_border=true&border_radius=40" alt="GitHub Streak">
+  <img height="200" width="349" src="https://media.tenor.com/gJGXNVLiLLkAAAAC/gear-5-gear-5-luffy.gif" alt="Luffy GIF"> <br> <br>
+  <img heigh="200" width="359"src="https://github-readme-stats.vercel.app/api/top-langs/?username=dos4002&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&border_radius=30" alt="Top Languages">
+   <img height="135" width="349" src="https://streak-stats.demolab.com?user=dos4002&theme=tokyonight&hide_border=true&border_radius=30" alt="GitHub Streak">
 </p>
 
 </div>
