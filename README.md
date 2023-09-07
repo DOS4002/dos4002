@@ -1,7 +1,8 @@
 ### OOPA! Eu sou o DOS 
+<img align="right" height="70" width="70" src="https://cdn.discordapp.com/attachments/1117918253373722808/1149187431153815552/Design_sem_nome_1.gif">
+
 Atualmente, eu estudo Desenvolvimento de Sistemas.
 
-<img style="margin-left: 50px" height="70" width="70" src="https://cdn.discordapp.com/attachments/1117918253373722808/1149187431153815552/Design_sem_nome_1.gif">
 
 <div style="display: inline_block"><hr>
   <picture>
@@ -16,7 +17,8 @@ Atualmente, eu estudo Desenvolvimento de Sistemas.
   <img src="https://github-readme-stats.vercel.app/api?username=dos4002&show_icons=true" />
 </picture>
 <img heigh="200" width="349" src="https://media.tenor.com/gJGXNVLiLLkAAAAC/gear-5-gear-5-luffy.gif"/>
-<img height="179" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dos4002&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dos4002&langs_count=8&layout=compact&theme=tokyonight&hide_border=true">
+
 </div><hr>
 
 ## Tecnologias que eu uso nos meus dias
