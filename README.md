@@ -1,7 +1,6 @@
-### OOPA! Eu sou o DOS 🗿
-<img align="right" height="70" width="70" src="https://media.tenor.com/_MwsIyn4YxQAAAAi/funny-meme.gif">
+### OOPA! Eu sou o DOS 🗿 
 
-Atualmente, eu estudo Desenvolvimento de Sistemas.
+Atualmente, eu estudo Desenvolvimento de Sistemas. <img  height="30" width="30" src="https://media.tenor.com/QefYuXKmoBoAAAAi/sonic-sonic-the-hedgehog.gif">
 
 <hr>
 
