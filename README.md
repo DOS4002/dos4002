@@ -1,6 +1,6 @@
-### OOPA! Eu sou o DOS 🗿 
+### ...
 
-Atualmente, estou cursando Desenvolvimento de Sistemas. <img  height="30" width="30" src="https://media.tenor.com/QefYuXKmoBoAAAAi/sonic-sonic-the-hedgehog.gif">
+ <img  height="30" width="30" src="https://media.tenor.com/QefYuXKmoBoAAAAi/sonic-sonic-the-hedgehog.gif">
 
 <hr>
 
