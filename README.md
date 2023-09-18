@@ -13,7 +13,7 @@
 </div>
 
 
-:man_student: Desenvolvimento de Sistemas - ETEC de Guaianazes;
+:man_student: Desenvolvimento de Sistemas - [ETEC de Guaianazes](https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/);
 
 💙 **Atualmente, estudando o framework "Flutter"**;
 
