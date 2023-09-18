@@ -1,39 +1,35 @@
-### ...
+<img src = "https://media.tenor.com/L-I_GamUq3sAAAAC/gear-5-luffy-gear-5.gif" width = "270px" align = "right">
 
- <img  height="30" width="30" src="https://media.tenor.com/QefYuXKmoBoAAAAi/sonic-sonic-the-hedgehog.gif">
+# Opa! Meu nome é Diego 🧑‍💻
 
-<hr>
-
-<p style="display: inline-block">
-  <img src="https://github-readme-stats.vercel.app/api?username=dos4002&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img height="200" width="349" src="https://media.tenor.com/gncfM7GPwgEAAAAi/shaggy.gif"> <br> <br>
-  <img heigh="200" width="339"src="https://github-readme-stats.vercel.app/api/top-langs/?username=dos4002&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&border_radius=30" alt="Top Languages">
-   <img height="135" width="349" src="https://streak-stats.demolab.com?user=dos4002&theme=tokyonight&hide_border=true&border_radius=30" alt="GitHub Streak">
-   <img  height="124" width="124" src="https://media.tenor.com/L-I_GamUq3sAAAAC/gear-5-luffy-gear-5.gif">
-</p>
+<div id="badges">  
+  <a href = "https://www.linkedin.com/in/diego-olegario-6462b5235/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href = "https://mail.google.com/mail/u/0/#inbox?compose=new">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
-<hr>
 
-## Tecnologias que eu uso nos meus dias
-<div style="display: inline-block">
-  <img align="center" alt="DOS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="DOS-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="DOS-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="DOS-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="DOS-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="DOS-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="DOS-Elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">
-  <img align="center" alt="DOS-sqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="DOS-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-</div>
+:man_student: Desenvolvimento de Sistemas - ETEC de Guaianazes;
 
-## 
+💙 **Atualmente, estudando o framework "Flutter"**;
 
-## Redes sociais
-<div> 
-  <a href = "mailto:diegoolegario4002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diego-olegario-6462b5235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
+⛵ **Fun fact:** Sou o maior fã de One Piece que você conhece;
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;  
+  <img  alt="DOS-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img alt="DOS-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="DOS-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="DOS-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+
+</div>
+
+---  
+<div align = "left">  
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=dos4002&show_icons=true&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dos4002&show_icons=true&theme=tokyonight&count_private=true"/>
+</div>
