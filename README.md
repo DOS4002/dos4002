@@ -17,7 +17,7 @@
 
 💙 **Atualmente, estudando o framework "Flutter"**;
 
- 🎸📚**Hobbies:** Gosto muito de música, toco guitarra e violão e também amo ler livros!;
+ 🎸📚**Hobbies:** Gosto muito de música, toco guitarra e violão e também amo ler livros!.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;  
