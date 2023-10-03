@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif)]()
 
-<img src = "https://media.tenor.com/L-I_GamUq3sAAAAC/gear-5-luffy-gear-5.gif" width = "270px" align = "right">
+<img src = "https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif" width = "270px" align = "right">
 
 # Opa! Meu nome é Diego 🧑‍💻
 
