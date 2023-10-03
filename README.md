@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/6e/7d/c2/6e7dc293186c9e65fbe8ff1f6b855daa.gif)]()
+[![MasterHead](https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif)]()
 
 <img src = "https://media.tenor.com/L-I_GamUq3sAAAAC/gear-5-luffy-gear-5.gif" width = "270px" align = "right">
 
