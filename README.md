@@ -43,3 +43,7 @@
   <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=dos4002&show_icons=true&show_icons=true&theme=tokyonight&count_private=true" />
   <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dos4002&show_icons=true&theme=tokyonight&count_private=true"/>
 </div>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/dos4002/count.svg"/>
