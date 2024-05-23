@@ -15,11 +15,11 @@
 </div>
 
 
-:man_student: Desenvolvimento de Sistemas - [ETEC de Guaianazes](https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/);
+:man_student: Desenvolvimento de Sistemas;
 
-💙 **Atualmente, estudando o framework "Flutter"**;
+📉☁ **Atualmente, trabalhando com Microsoft Azure"**;
 
- 🎸📚**Hobbies:** Gosto muito de música, toco guitarra e violão e também amo ler livros!.
+ 🎸📚**Hobbies:** Gosto muito de música, toco guitarra, violão e também amo ler livros!.
 
  📖 **2Tm 2:22**
 <div>
